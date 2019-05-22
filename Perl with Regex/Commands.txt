@@ -1,0 +1,3 @@
+perl classwork.pl alice.txt  > alice_toc.txt // to save to txt file
+perl classwork.pl alice.txt  >> alice_toc.txt //to append
+perl classwork.pl alice.txt  > alice_toc.csv // to save to csv file
